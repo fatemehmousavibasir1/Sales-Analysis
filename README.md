@@ -119,7 +119,6 @@ sales-analysis/
 1. Clone this repository:
 ```bash
 git clone https://github.com/fatemehmousavibasir1/Sales-Analysis.git
-cd Sales-Analysis
 ```
 
 2. Install required packages (optional if using JupyterLab/Colab):
